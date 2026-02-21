@@ -55,7 +55,7 @@ export default function Home() {
           {/* Reset Button */}
           <button
             onClick={() => setCount(0)}
-            className="px-5 py-2 rounded-xl bg-gray-600 hover:bg-gray-700 text-white font-semibold transition duration-200 active:scale-95"
+            className="px-5 py-2 rounded-xl bg-orange-400 hover:bg-orange-500 text-white font-semibold transition duration-200 active:scale-95"
           >
             Reset
           </button>
